@@ -13,3 +13,23 @@ h3 {
 p {
   color: #242a45;
 }
+
+ul {
+  list-style: none;
+}
+
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+article {
+  background-color: #5267df;
+}
+
+footer {
+  background-color: #242a45;
+}
